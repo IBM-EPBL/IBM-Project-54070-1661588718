@@ -2,7 +2,7 @@
 <h1 align="center"><b>SMART FASHION RECOMMENDER APPLICATION</b></h1>
 <img src="https://www.myyyi.com/wp-content/uploads/2022/04/ecommerce.gif" align="right" width="300" height="200"/>
 <h1>TEAM DETAILS</h1>
-<b>TEAM ID :</b>PNT2022TMID24396
+<b>TEAM ID :</b> <u>PNT2022TMID24396</u>
 <br>
 <b>TEAM LEADER   :</b> SANJAY.M
 <br>
